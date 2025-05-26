@@ -45,6 +45,4 @@ Input validation and error handling
 This project is licensed under the MIT License.
 
 
----
 
-Let me know if you want to refactor the code to improve it or add persistence (e.g., saving to a file).
